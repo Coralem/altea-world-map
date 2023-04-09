@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="681" height="867" tilewidth="16" tileheight="16" infinite="0" nextlayerid="13" nextobjectid="1"/>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="681" height="867" tilewidth="16" tileheight="16" infinite="1" nextlayerid="15" nextobjectid="1">
+ <tileset firstgid="1" source="../Tilesets/Town and City Ext &amp; Int FF6 SNES.tsx"/>
+ <layer id="13" name="Ground" width="681" height="867">
+  <data encoding="base64" compression="zlib"/>
+ </layer>
+</map>

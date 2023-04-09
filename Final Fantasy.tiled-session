@@ -1,0 +1,1339 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Caden/Medicine Shop.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "Tiled Maps/Caden",
+        "Tiled Maps/map_20120/TextAsset",
+        "Tiled Maps/Tantal Woods",
+        "Tiled Maps",
+        "Tiled Maps/Civitatis Alexandria",
+        "Tiled Maps/map_20350/TextAsset",
+        "Tiled Maps/map_20050/TextAsset",
+        "Tiled Maps/Tilesets/Exterior",
+        "Tiled Maps/Map_20281/TextAsset",
+        "Tiled Maps/map_20100/TextAsset",
+        "Tiled Maps/Map_20061/TextAsset",
+        "Tiled Maps/Tilesets",
+        "Tiled Maps/Map_20200/TextAsset",
+        "Tiled Maps/map_20410/TextAsset",
+        "Tiled Maps/map_30810/TextAsset",
+        "Tiled Maps/Map_20071/TextAsset",
+        "Tiled Maps/World Map",
+        "Tiled Maps/map_20450/TextAsset",
+        ".",
+        "Tiled Maps/Tilesets/Interior",
+        "Caden",
+        "Tiled Maps/Tilesets/World",
+        "Tiled Maps/Map_40015/TextAsset",
+        "Tiled Maps/map_20370/TextAsset",
+        "Tiled Maps/map_40017/TextAsset",
+        "Tiled Maps/map_30850/TextAsset",
+        "Tiled Maps/Map_20011/TextAsset",
+        "Tiled Maps/Map_20070/TextAsset",
+        "Tiled Maps/map_40031/TextAsset",
+        "Tiled Maps/Caden/Lion's Mane"
+    ],
+    "exportAsImage.drawTileGrid": false,
+    "exportAsImage.useCurrentScale": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Caden/Medicine Shop.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 97.75,
+                "y": 56
+            }
+        },
+        "Tiled Maps/Alexandria.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 9200,
+                "y": 6848
+            }
+        },
+        "Tiled Maps/Caden.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 20,
+            "viewCenter": {
+                "x": 780,
+                "y": 326.66666666666663
+            }
+        },
+        "Tiled Maps/Caden.tmx#map182": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/Caden - Copy.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.25,
+                "y": 1195
+            }
+        },
+        "Tiled Maps/Caden/Caden - Copy.tmx#map182": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/Caden.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 750.3333333333333,
+                "y": 700
+            }
+        },
+        "Tiled Maps/Caden/Caden.tmx#map182": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Caden/Chocobo Stable.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 127.25,
+                "y": 185.5
+            }
+        },
+        "Tiled Maps/Caden/CompTown1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/Heathcrest Farm - Copy.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 282.75,
+                "y": 168
+            }
+        },
+        "Tiled Maps/Caden/Heathcrest Farm Outdated.tmx": {
+            "scale": 1.6255912162162163,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280.2057463500805,
+                "y": 208.53951265132224
+            }
+        },
+        "Tiled Maps/Caden/Heathcrest Farm.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 166.5,
+                "y": 222
+            }
+        },
+        "Tiled Maps/Caden/Interior 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Caden/Lion's Mane/Lions Mane 1st Floor.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600.6666666666666,
+                "y": 333.33333333333337
+            }
+        },
+        "Tiled Maps/Caden/Lion's Mane/Lions Mane 2nd Floor.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 303.66666666666663,
+                "y": 225.3333333333333
+            }
+        },
+        "Tiled Maps/Caden/Lions Mane 1st Floor.tmx": {
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 301,
+                "y": 218.5
+            }
+        },
+        "Tiled Maps/Caden/Lions Mane 2nd Floor.tmx": {
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 247,
+                "y": 160.5
+            }
+        },
+        "Tiled Maps/Caden/Lions Mane.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 272.6666666666667,
+                "y": 196
+            }
+        },
+        "Tiled Maps/Caden/Medicine Shop.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 130.83333333333331,
+                "y": 79
+            }
+        },
+        "Tiled Maps/Caden/Silvermane Farm.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 165.75,
+                "y": 148.5
+            }
+        },
+        "Tiled Maps/Caden/Smithy.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 232.75,
+                "y": 193.5
+            }
+        },
+        "Tiled Maps/Caden/Stonewall Farm.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.5,
+                "y": 173.66666666666666
+            }
+        },
+        "Tiled Maps/Caden/Tilesets/Interior/Interior 1.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/Town variant 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Caden/Windham Farm.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 170.25,
+                "y": 183
+            }
+        },
+        "Tiled Maps/Caden/airship5.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town1_blue.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town1_green.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town1_red.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town1_steel.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town2_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town6_1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town6_4.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Caden/town6_5.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled Maps/Civitatis Alexandria/Civitatis Alexandria.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 403.3333333333333,
+                "y": 94.66666666666669
+            }
+        },
+        "Tiled Maps/CompTown1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/CompTown1_Orange.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227937.json": {
+            "scale": 1.603125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160.62378167641327,
+                "y": 270.0974658869396
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227937.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227942.json": {
+            "scale": 1.675994318181818,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 154.23679972879063,
+                "y": 257.75743707093824
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227942.json#map105": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227962.json": {
+            "scale": 1.7558035714285714,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 119.31858632087469,
+                "y": 246.61072972285785
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227962.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227971.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 201.25,
+                "y": 294
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227971.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227975.json": {
+            "scale": 1.2290625,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 167.2006102212052,
+                "y": 351.487414187643
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227975.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227990.json": {
+            "scale": 1.675994318181818,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 176.31324688532928,
+                "y": 257.75743707093824
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227990.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227996.json": {
+            "scale": 1.7558035714285714,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 119.31858632087469,
+                "y": 246.61072972285785
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #227996.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228011.json": {
+            "scale": 1.5363281249999998,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 135.06229341469617,
+                "y": 281.1899313501144
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228011.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228012.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 200.75,
+                "y": 267.5
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228012.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228033.json": {
+            "scale": 1.84359375,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 239.4779218577846,
+                "y": 234.32494279176203
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228033.json#map104": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228037.json": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 207.83333333333331,
+                "y": 207.66666666666666
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228037.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228038.json": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160.16666666666666,
+                "y": 167.66666666666666
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228038.json#map024": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228054.json": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 152.16666666666666,
+                "y": 175.66666666666666
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap #228054.json#map105": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap.json": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 152.25,
+                "y": 176
+            }
+        },
+        "Tiled Maps/Map_20011/TextAsset/tilemap.json#map105": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20061/TextAsset/tilemap.json": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 494.3333333333333,
+                "y": 303.3333333333333
+            }
+        },
+        "Tiled Maps/Map_20061/TextAsset/tilemap.json#map094": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20070/TextAsset/tilemap.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 303.75,
+                "y": 630
+            }
+        },
+        "Tiled Maps/Map_20070/TextAsset/tilemap.json#map047": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228411.json": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199.5,
+                "y": 158
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228411.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228412.json": {
+            "scale": 2.0484375,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 104.22578184591916,
+                "y": 211.38062547673533
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228412.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228448.json": {
+            "scale": 2.1841517857142856,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 239.68114460909558,
+                "y": 173.98058252427185
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228448.json#map091": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228453.json": {
+            "scale": 1.4181490384615383,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 232.3451139927113,
+                "y": 277.1217899822019
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228453.json#map081": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228469.json": {
+            "scale": 2.1689338235294118,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 111.80608526146281,
+                "y": 199.63725739469447
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228469.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228471.json": {
+            "scale": 0.8015625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 449.7465886939573,
+                "y": 540.1949317738791
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228471.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228473.json": {
+            "scale": 1.7558035714285714,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 127.86168319349093,
+                "y": 246.61072972285785
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228473.json#map081": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228478.json": {
+            "scale": 1.189415322580645,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160.16272565471655,
+                "y": 364.0444105432664
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228478.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228486.json": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 137.625,
+                "y": 164
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228486.json#map076": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228494.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 677.9999999999999,
+                "y": 270.66666666666663
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228494.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228495.json": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 232.16666666666669,
+                "y": 195.66666666666666
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228495.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228514.json": {
+            "scale": 0.477783203125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1025.5697496167604,
+                "y": 801.6188042922842
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228514.json#map061": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228527.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 238.75,
+                "y": 191
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228527.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228541.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1254.5454545454547,
+                "y": 754.5454545454547
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228541.json#map061": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228549.json": {
+            "scale": 1.675994318181818,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 134.8453258750742,
+                "y": 258.3540978048988
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228549.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228562.json": {
+            "scale": 1.603125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 119.76608187134502,
+                "y": 270.0974658869396
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228562.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228573.json": {
+            "scale": 2.1689338235294118,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 103.73760488176964,
+                "y": 199.63725739469447
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228573.json#map088": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228575.json": {
+            "scale": 2.458125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 111.87388761759472,
+                "y": 176.15052123061278
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228575.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228581.json": {
+            "scale": 1.3168526785714285,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 215.6657343842699,
+                "y": 328.81430629714384
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228581.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228582.json": {
+            "scale": 1.5363281249999998,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 183.55453852021358,
+                "y": 281.8408339689804
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228582.json#map081": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228586.json": {
+            "scale": 1.2290625,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 127.73963895245362,
+                "y": 352.30104246122556
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228586.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228595.json": {
+            "scale": 1.603125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 207.71929824561408,
+                "y": 270.0974658869396
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228595.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228602.json": {
+            "scale": 1.84359375,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 103.60200016950591,
+                "y": 234.86736164081705
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228602.json#map083": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228610.json": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 144,
+                "y": 159.875
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228610.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228613.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 232.5,
+                "y": 224
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228613.json#map081": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228616.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 168.25,
+                "y": 168
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap #228616.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap.json": {
+            "scale": 2.458125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 112.07729468599032,
+                "y": 176.15052123061278
+            }
+        },
+        "Tiled Maps/Map_20071/TextAsset/tilemap.json#map076": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20200/TextAsset/tilemap #229764.json": {
+            "scale": 1.1522460937499999,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 405.7292990931435,
+                "y": 189.1956945503856
+            }
+        },
+        "Tiled Maps/Map_20200/TextAsset/tilemap #229764.json#map284": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20200/TextAsset/tilemap.json": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 406.16666666666663,
+                "y": 96
+            }
+        },
+        "Tiled Maps/Map_20200/TextAsset/tilemap.json#map284": {
+            "scaleInDock": 8,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_20281/TextAsset/tilemap.json": {
+            "scale": 5.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1429.727272727273,
+                "y": 675.0909090909091
+            }
+        },
+        "Tiled Maps/Map_20281/TextAsset/tilemap.json#map015": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Map_40015/TextAsset/tilemap.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 508.5,
+                "y": 566
+            }
+        },
+        "Tiled Maps/Map_40015/TextAsset/tilemap.json#map055": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/New World Map - Copy.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2326,
+                "y": 2036
+            }
+        },
+        "Tiled Maps/New World Map-Auron.tmx": {
+            "scale": 0.15996509308510637,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3016.283057099808,
+                "y": 1459.6934587208398
+            }
+        },
+        "Tiled Maps/New World Map.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2246.969696969697,
+                "y": 1384.8484848484848
+            }
+        },
+        "Tiled Maps/New World Map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2823.333333333333,
+                "y": 1442.6666666666665
+            }
+        },
+        "Tiled Maps/Tantal Woods/Tantal Woods.tmx": {
+            "scale": 0.5,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 479,
+                "y": 586
+            }
+        },
+        "Tiled Maps/Tilesets/Exterior/CompCity1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/Tilesets/Exterior/CompTown1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/Exterior/CompiledCastle1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Tilesets/Exterior/Town variant 2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/Tilesets/Exterior/Town variant 3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/Exterior/castle out.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Tilesets/Interior/Interior 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/Interior/map094.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/World/Overworld-SNES6.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/Tilesets/World/castles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Tilesets/World/earth.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/Tilesets/World/mountains.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Tilesets/World/trees.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 5.5
+        },
+        "Tiled Maps/Tilesets/World/vehicles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/Tilesets/World/water.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "Tiled Maps/airship4.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/airship5.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/airship6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/airships.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/castle and town.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/castle out.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/castles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/chocobo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/earth.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/locke.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 8
+        },
+        "Tiled Maps/map_20050/TextAsset/tilemap.json": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 440.75,
+                "y": 464
+            }
+        },
+        "Tiled Maps/map_20050/TextAsset/tilemap.json#map055": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20100/TextAsset/tilemap.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.5,
+                "y": 512
+            }
+        },
+        "Tiled Maps/map_20100/TextAsset/tilemap.json#map120": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20120/TextAsset/tilemap.json": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 268.5,
+                "y": 365.33333333333337
+            }
+        },
+        "Tiled Maps/map_20120/TextAsset/tilemap.json#map169": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20350/TextAsset/tilemap.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 276.5,
+                "y": 586
+            }
+        },
+        "Tiled Maps/map_20350/TextAsset/tilemap.json#map169": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20370/TextAsset/tilemap.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 472.5,
+                "y": 352
+            }
+        },
+        "Tiled Maps/map_20370/TextAsset/tilemap.json#map055": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20410/TextAsset/tilemap.json": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 373.25,
+                "y": 348.5
+            }
+        },
+        "Tiled Maps/map_20410/TextAsset/tilemap.json#map284": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_20450/TextAsset/tilemap.json": {
+            "scale": 0.5761230468749999,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 499.0253411306043,
+                "y": 458.235443681668
+            }
+        },
+        "Tiled Maps/map_20450/TextAsset/tilemap.json#map120": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_30810/TextAsset/tilemap.json": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 260.875,
+                "y": 183.25
+            }
+        },
+        "Tiled Maps/map_30810/TextAsset/tilemap.json#map407": {
+            "scaleInDock": 3
+        },
+        "Tiled Maps/map_30850/TextAsset/tilemap.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 489.6666666666667,
+                "y": 441.3333333333333
+            }
+        },
+        "Tiled Maps/map_30850/TextAsset/tilemap.json#map120": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/map_40017/TextAsset/tilemap.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 263.66666666666663,
+                "y": 377.3333333333333
+            }
+        },
+        "Tiled Maps/map_40017/TextAsset/tilemap.json#map055": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/mountains.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/tilemap #228835.json": {
+            "scale": 5.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 464,
+                "y": 110
+            }
+        },
+        "Tiled Maps/tilemap #228835.json#map157": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/tilemap #230139.json": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 406.90909090909093,
+                "y": 218.90909090909093
+            }
+        },
+        "Tiled Maps/tilemap #230139.json#map014": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/tilemap #230153.json": {
+            "scale": 2.1841517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 223.42769545222282,
+                "y": 190.9207971384773
+            }
+        },
+        "Tiled Maps/tilemap #230153.json#map014": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/tilemap #230156.json": {
+            "scale": 2.1841517857142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 212.43944813490035,
+                "y": 184.05314256515075
+            }
+        },
+        "Tiled Maps/tilemap #230156.json#map014": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/tilemap.json": {
+            "scale": 4,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2920,
+                "y": 341.75
+            }
+        },
+        "Tiled Maps/tilemap.json#earth": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/tilemap.json#map014": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/tilemap.json#map182": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/town.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/town1_blue.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/town1_green.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town1_orange.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town1_red.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town1_steel.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town2.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/town2_1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/town3.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town3_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/town3_8.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/town4.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/town5.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town6.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "Tiled Maps/town6_1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "Tiled Maps/town6_2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/town6_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Tiled Maps/town6_4.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/town6_5.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "Tiled Maps/trees.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tiled Maps/vehicles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled Maps/water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Tilesets/Interior/Interior 1.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.exportedFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
+    "last.externalTilesetPath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps/Tilesets/Exterior",
+    "last.imagePath": "C:/Users/gastl/Downloads",
+    "last.worldFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
+    "loadedWorlds": [
+        "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Altea/Final Fantasy.world"
+    ],
+    "map.fixedSize": false,
+    "map.height": 30,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 30,
+    "openFiles": [
+        "Caden/Medicine Shop.tmx"
+    ],
+    "project": "Final Fantasy.tiled-project",
+    "property.type": "color",
+    "recentFiles": [
+        "Caden/Medicine Shop.tmx",
+        "Tiled Maps/Caden/Caden.tmx",
+        "Tiled Maps/Caden/Medicine Shop.tmx",
+        "Tiled Maps/Civitatis Alexandria/Civitatis Alexandria.tmx",
+        "Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx",
+        "Tiled Maps/Caden/Lion's Mane/Lions Mane 2nd Floor.tmx",
+        "Tiled Maps/Caden/Lion's Mane/Lions Mane 1st Floor.tmx",
+        "Tiled Maps/New World Map-Auron.tmx",
+        "Tiled Maps/Caden/Heathcrest Farm.tmx",
+        "Tiled Maps/Caden/Heathcrest Farm - Copy.tmx",
+        "Tiled Maps/Caden/Windham Farm.tmx",
+        "Tiled Maps/Caden/Stonewall Farm.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
