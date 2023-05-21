@@ -3,39 +3,42 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Caden/Medicine Shop.tmx",
+    "activeFile": "Tantal Woods/Tantal Woods.tmx",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
-        "Tiled Maps/Caden",
-        "Tiled Maps/map_20120/TextAsset",
-        "Tiled Maps/Tantal Woods",
-        "Tiled Maps",
-        "Tiled Maps/Civitatis Alexandria",
-        "Tiled Maps/map_20350/TextAsset",
-        "Tiled Maps/map_20050/TextAsset",
-        "Tiled Maps/Tilesets/Exterior",
-        "Tiled Maps/Map_20281/TextAsset",
-        "Tiled Maps/map_20100/TextAsset",
-        "Tiled Maps/Map_20061/TextAsset",
-        "Tiled Maps/Tilesets",
-        "Tiled Maps/Map_20200/TextAsset",
-        "Tiled Maps/map_20410/TextAsset",
-        "Tiled Maps/map_30810/TextAsset",
-        "Tiled Maps/Map_20071/TextAsset",
-        "Tiled Maps/World Map",
-        "Tiled Maps/map_20450/TextAsset",
-        ".",
-        "Tiled Maps/Tilesets/Interior",
-        "Caden",
-        "Tiled Maps/Tilesets/World",
-        "Tiled Maps/Map_40015/TextAsset",
-        "Tiled Maps/map_20370/TextAsset",
-        "Tiled Maps/map_40017/TextAsset",
         "Tiled Maps/map_30850/TextAsset",
-        "Tiled Maps/Map_20011/TextAsset",
-        "Tiled Maps/Map_20070/TextAsset",
+        "Tiled Maps/Map_20061/TextAsset",
+        "Caden",
+        "Tiled Maps/map_20350/TextAsset",
+        "Tiled Maps/Tilesets/World",
+        "Tiled Maps",
+        "Tiled Maps/map_30810/TextAsset",
+        "Tiled Maps/Tilesets/Interior",
+        "Tiled Maps/map_20450/TextAsset",
+        "Tiled Maps/Civitatis Alexandria",
+        "Tiled Maps/map_40017/TextAsset",
+        "Tiled Maps/Tilesets",
+        "Tiled Maps/map_20100/TextAsset",
+        "Tiled Maps/map_20120/TextAsset",
+        "Tiled Maps/World Map",
+        "Tiled Maps/map_20050/TextAsset",
+        "Tilesets/Interior",
+        "Tiled Maps/map_20410/TextAsset",
         "Tiled Maps/map_40031/TextAsset",
-        "Tiled Maps/Caden/Lion's Mane"
+        "Tantal Woods",
+        "Tilesets",
+        "Tiled Maps/map_20370/TextAsset",
+        "Tiled Maps/Map_20200/TextAsset",
+        "Tiled Maps/Caden",
+        "Tiled Maps/Map_20071/TextAsset",
+        "Tiled Maps/Map_20281/TextAsset",
+        "Tiled Maps/Map_20070/TextAsset",
+        ".",
+        "Tiled Maps/Caden/Lion's Mane",
+        "Tiled Maps/Tantal Woods",
+        "Tiled Maps/Tilesets/Exterior",
+        "Tiled Maps/Map_40015/TextAsset",
+        "Tiled Maps/Map_20011/TextAsset"
     ],
     "exportAsImage.drawTileGrid": false,
     "exportAsImage.useCurrentScale": true,
@@ -45,12 +48,34 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
+            "scaleInDock": 1
+        },
+        "Caden/Caden.tmx": {
+            "scale": 3,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 750.8333333333333,
+                "y": 302.66666666666663
+            }
+        },
         "Caden/Medicine Shop.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 97.75,
-                "y": 56
+                "x": 97.25,
+                "y": 55.5
+            }
+        },
+        "Dungeons/Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
+            "scaleInDock": 1
+        },
+        "Tantal Woods/Tantal Woods.tmx": {
+            "scale": 4,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 798.875,
+                "y": 487
             }
         },
         "Tiled Maps/Alexandria.tmx": {
@@ -1289,16 +1314,21 @@
             "scaleInDock": 1,
             "scaleInEditor": 4
         },
+        "Tilesets/Imperial Camp Tiles FF6 SNES.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
         "Tilesets/Interior/Interior 1.tsx": {
             "scaleInDock": 1
         },
         "Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 8,
+            "scaleInEditor": 3
         }
     },
     "frame.defaultDuration": 100,
     "last.exportedFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
-    "last.externalTilesetPath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps/Tilesets/Exterior",
+    "last.externalTilesetPath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Altea/Tilesets",
     "last.imagePath": "C:/Users/gastl/Downloads",
     "last.worldFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
     "loadedWorlds": [
@@ -1312,11 +1342,16 @@
     "map.tileWidth": 16,
     "map.width": 30,
     "openFiles": [
-        "Caden/Medicine Shop.tmx"
+        "Tantal Woods/Tantal Woods.tmx",
+        "Tilesets/Town and City Ext & Int FF6 SNES.tsx"
     ],
     "project": "Final Fantasy.tiled-project",
     "property.type": "color",
     "recentFiles": [
+        "Tantal Woods/Tantal Woods.tmx",
+        "Tilesets/Town and City Ext & Int FF6 SNES.tsx",
+        "Caden/Caden.tmx",
+        "Tilesets/Imperial Camp Tiles FF6 SNES.tsx",
         "Caden/Medicine Shop.tmx",
         "Tiled Maps/Caden/Caden.tmx",
         "Tiled Maps/Caden/Medicine Shop.tmx",
@@ -1324,11 +1359,7 @@
         "Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx",
         "Tiled Maps/Caden/Lion's Mane/Lions Mane 2nd Floor.tmx",
         "Tiled Maps/Caden/Lion's Mane/Lions Mane 1st Floor.tmx",
-        "Tiled Maps/New World Map-Auron.tmx",
-        "Tiled Maps/Caden/Heathcrest Farm.tmx",
-        "Tiled Maps/Caden/Heathcrest Farm - Copy.tmx",
-        "Tiled Maps/Caden/Windham Farm.tmx",
-        "Tiled Maps/Caden/Stonewall Farm.tmx"
+        "Tiled Maps/New World Map-Auron.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
