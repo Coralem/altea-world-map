@@ -3,41 +3,49 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tantal Woods/Tantal Woods.tmx",
+    "activeFile": "Alexandria/Civitatis Alexandria/Vanoce Tear.tmx",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
-        "Tiled Maps/map_30850/TextAsset",
-        "Tiled Maps/Map_20061/TextAsset",
-        "Caden",
-        "Tiled Maps/map_20350/TextAsset",
-        "Tiled Maps/Tilesets/World",
+        "Tiled Maps/Map_20281/TextAsset",
+        "Tiled Maps/World Map",
         "Tiled Maps",
-        "Tiled Maps/map_30810/TextAsset",
-        "Tiled Maps/Tilesets/Interior",
-        "Tiled Maps/map_20450/TextAsset",
-        "Tiled Maps/Civitatis Alexandria",
+        "Tiled Maps/map_20370/TextAsset",
+        "Tilesets",
         "Tiled Maps/map_40017/TextAsset",
+        "Tiled Maps/Tantal Woods",
+        "Tiled Maps/Map_20061/TextAsset",
+        "Rules",
+        "Caden/Lion's Mane",
+        "Tiled Maps/Map_20070/TextAsset",
+        "Caden",
+        ".",
+        "Tiled Maps/Tilesets/Exterior",
+        "Tiled Maps/Map_20071/TextAsset",
+        "Tiled Maps/map_40031/TextAsset",
+        "Tiled Maps/Tilesets/World",
+        "Tiled Maps/Civitatis Alexandria",
+        "Tiled Maps/map_20450/TextAsset",
+        "Lecresh",
+        "Tiled Maps/map_20050/TextAsset",
+        "Alexandria/Civitatis Alexandria",
+        "Tiled Maps/map_20350/TextAsset",
+        "Dungeons/Tantal Woods",
+        "Tiled Maps/Caden",
+        "Tiled Maps/map_30850/TextAsset",
+        "Tiled Maps/map_20410/TextAsset",
         "Tiled Maps/Tilesets",
         "Tiled Maps/map_20100/TextAsset",
-        "Tiled Maps/map_20120/TextAsset",
-        "Tiled Maps/World Map",
-        "Tiled Maps/map_20050/TextAsset",
-        "Tilesets/Interior",
-        "Tiled Maps/map_20410/TextAsset",
-        "Tiled Maps/map_40031/TextAsset",
+        "Tiled Maps/Tilesets/Interior",
+        "Tiled Maps/map_30810/TextAsset",
+        "Alexandria",
         "Tantal Woods",
-        "Tilesets",
-        "Tiled Maps/map_20370/TextAsset",
         "Tiled Maps/Map_20200/TextAsset",
-        "Tiled Maps/Caden",
-        "Tiled Maps/Map_20071/TextAsset",
-        "Tiled Maps/Map_20281/TextAsset",
-        "Tiled Maps/Map_20070/TextAsset",
-        ".",
+        "Tiled Maps/map_20120/TextAsset",
         "Tiled Maps/Caden/Lion's Mane",
-        "Tiled Maps/Tantal Woods",
-        "Tiled Maps/Tilesets/Exterior",
+        "Tilesets/World",
         "Tiled Maps/Map_40015/TextAsset",
+        "Dungeons",
+        "Civitatis Alexandria",
         "Tiled Maps/Map_20011/TextAsset"
     ],
     "exportAsImage.drawTileGrid": false,
@@ -48,27 +56,242 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Alexandria/Castellia Nova.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -158,
+                "y": 1674.6666666666665
+            }
+        },
+        "Alexandria/Civitatis Alexandria/Vanoce Tear.tmx": {
+            "expandedObjectLayers": [
+                22
+            ],
+            "scale": 0.5,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 1089,
+                "y": 626
+            }
+        },
         "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
             "scaleInDock": 1
         },
-        "Caden/Caden.tmx": {
-            "scale": 3,
-            "selectedLayer": 8,
+        "Caden/Aquarose Farm.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 750.8333333333333,
-                "y": 302.66666666666663
+                "x": 110.125,
+                "y": 237.75
+            }
+        },
+        "Caden/Caden.tmx": {
+            "expandedGroupLayers": [
+                61
+            ],
+            "scale": 5.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 752.0909090909091,
+                "y": 584
+            }
+        },
+        "Caden/Emberfield Farm.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 202.75,
+                "y": 199
+            }
+        },
+        "Caden/Lion's Mane/Lions Mane 1st Floor.tmx": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 168.16666666666666,
+                "y": 202
+            }
+        },
+        "Caden/Lion's Mane/Lions Mane 2nd Floor.tmx": {
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 264.125,
+                "y": 208
             }
         },
         "Caden/Medicine Shop.tmx": {
-            "scale": 2,
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 80.125,
+                "y": 102.25
+            }
+        },
+        "Caden/Smithy.tmx": {
+            "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 97.25,
-                "y": 55.5
+                "x": 227.83333333333331,
+                "y": 180
+            }
+        },
+        "Caden/Stonewall Farm.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 148.83333333333331,
+                "y": 224.33333333333331
+            }
+        },
+        "Caden/Windham Farm.tmx": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 141.83333333333331,
+                "y": 185
+            }
+        },
+        "Camp.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 307,
+                "y": 228.5
+            }
+        },
+        "Choco.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Dungeons/Castellia Signum.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -826,
+                "y": 1364
+            }
+        },
+        "Dungeons/Ruins/Ruins Clearing.tmx": {
+            "scale": 4,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 25.375,
+                "y": -54.25
+            }
+        },
+        "Dungeons/Ruins/Ruins.tmx": {
+            "expandedGroupLayers": [
+                11
+            ],
+            "expandedObjectLayers": [
+                12,
+                11
+            ],
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 535.3333333333333,
+                "y": 377.33333333333337
+            }
+        },
+        "Dungeons/Tantal Woods/Tantal Woods Revamp.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 639.3333333333333,
+                "y": 637.3333333333334
+            }
+        },
+        "Dungeons/Tantal Woods/Tantal Woods.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 477,
+                "y": 511.5
+            }
+        },
+        "Dungeons/Thalorn Woods.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -348.125,
+                "y": -245
             }
         },
         "Dungeons/Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
             "scaleInDock": 1
+        },
+        "Dungeons/Vault of Whispers.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.5,
+                "y": 324.3333333333333
+            }
+        },
+        "Lecresh/Leon's Workshop.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 9.5,
+                "y": -54
+            }
+        },
+        "Lecresh/Midreach.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 127.66666666666669,
+                "y": -127.99999999999997
+            }
+        },
+        "Lecresh/Reynaud Magitechniks Factory.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 400,
+                "y": 272.3333333333333
+            }
+        },
+        "Lecresh/Reynaud Magitechniks Research.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 236,
+                "y": 178
+            }
+        },
+        "Lecresh/Ruined Magitek Factory.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -233.66666666666669,
+                "y": -370.66666666666663
+            }
+        },
+        "NPCs.tsx": {
+            "dynamicWrapping": true
+        },
+        "New World Map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2432.333333333333,
+                "y": 1441.3333333333333
+            }
+        },
+        "Rules/autotile rules.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 201.16666666666666,
+                "y": 211
+            }
         },
         "Tantal Woods/Tantal Woods.tmx": {
             "scale": 4,
@@ -1314,25 +1537,151 @@
             "scaleInDock": 1,
             "scaleInEditor": 4
         },
+        "Tilesets/Castle - FF6.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tilesets/Castle FF6 Snes.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Caves FF6 SNES.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        },
+        "Tilesets/Cliffs_FF6 SNES.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/FF5 Indoors.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/FF5 Ship Interior.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/Imperial Camp Tiles FF6 SNES.tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 3
         },
+        "Tilesets/Imperial Camp Tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
         "Tilesets/Interior/Interior 1.tsx": {
+            "scaleInDock": 2
+        },
+        "Tilesets/Magitek Research Facility Tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "Tilesets/Milleniel Fair - Chrono Trigger.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/NPCs.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Tilesets/SNES - Final Fantasy 6 - Cave Tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "Tilesets/SNES - Trials of Mana JPN - City Village & Castle Town Interior Tilesets.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "Tilesets/Tirals of Mana Castle Town Exterior.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/Town Tile Reorganized.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.75
+        },
         "Tilesets/Town and City Ext & Int FF6 SNES.tsx": {
-            "scaleInDock": 8,
-            "scaleInEditor": 3
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "Tilesets/Trials of Mana City & Village Exterior.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 4
+        },
+        "Tilesets/World/castles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tilesets/World/earth.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tilesets/World/mountains.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "Tilesets/World/trees.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "Tilesets/World/water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/seasonal sample (summer).tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "sample map and Tiled files/_gentle forest sample map.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.875,
+                "y": 74
+            }
+        },
+        "sample map and Tiled files/gentle 32x32 v01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle 32x32 v02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle 32x32 v03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle 32x32 v04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle forest v01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle trees 80x96 v01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle water sparkles A v01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sample map and Tiled files/gentle waterfall A v01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "frame.defaultDuration": 100,
     "last.exportedFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
     "last.externalTilesetPath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Altea/Tilesets",
-    "last.imagePath": "C:/Users/gastl/Downloads",
+    "last.imagePath": "C:/Users/gastl/OneDrive/Documents/GitHub/altea-world-map/Tilesets/NPCs/Biggs",
     "last.worldFilePath": "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Tiled Maps",
     "loadedWorlds": [
-        "C:/Users/gastl/OneDrive/Documents/D&D Campaigns/Final Fantasy/Altea/Final Fantasy.world"
     ],
     "map.fixedSize": false,
     "map.height": 30,
@@ -1342,29 +1691,37 @@
     "map.tileWidth": 16,
     "map.width": 30,
     "openFiles": [
-        "Tantal Woods/Tantal Woods.tmx",
-        "Tilesets/Town and City Ext & Int FF6 SNES.tsx"
+        "Alexandria/Civitatis Alexandria/Vanoce Tear.tmx",
+        "Lecresh/Midreach.tmx",
+        "Caden/Caden.tmx",
+        "Tilesets/World/earth.tsx",
+        "Tilesets/Castle - FF6.tsx",
+        "Tilesets/SNES - Trials of Mana JPN - City Village & Castle Town Interior Tilesets.tsx",
+        "Tilesets/Trials of Mana City & Village Exterior.tsx",
+        "New World Map.tmx",
+        "Caden/Lion's Mane/Lions Mane 2nd Floor.tmx",
+        "Alexandria/Castellia Nova.tmx"
     ],
     "project": "Final Fantasy.tiled-project",
     "property.type": "color",
     "recentFiles": [
-        "Tantal Woods/Tantal Woods.tmx",
-        "Tilesets/Town and City Ext & Int FF6 SNES.tsx",
+        "Alexandria/Castellia Nova.tmx",
+        "Caden/Lion's Mane/Lions Mane 2nd Floor.tmx",
+        "New World Map.tmx",
+        "Tilesets/Trials of Mana City & Village Exterior.tsx",
+        "Tilesets/SNES - Trials of Mana JPN - City Village & Castle Town Interior Tilesets.tsx",
+        "Tilesets/Castle - FF6.tsx",
+        "Tilesets/World/earth.tsx",
         "Caden/Caden.tmx",
-        "Tilesets/Imperial Camp Tiles FF6 SNES.tsx",
-        "Caden/Medicine Shop.tmx",
-        "Tiled Maps/Caden/Caden.tmx",
-        "Tiled Maps/Caden/Medicine Shop.tmx",
-        "Tiled Maps/Civitatis Alexandria/Civitatis Alexandria.tmx",
-        "Tiled Maps/Tilesets/Town and City Ext & Int FF6 SNES.tsx",
-        "Tiled Maps/Caden/Lion's Mane/Lions Mane 2nd Floor.tmx",
-        "Tiled Maps/Caden/Lion's Mane/Lions Mane 1st Floor.tmx",
-        "Tiled Maps/New World Map-Auron.tmx"
+        "Lecresh/Midreach.tmx",
+        "Alexandria/Civitatis Alexandria/Vanoce Tear.tmx",
+        "Tilesets/NPCs.tsx",
+        "Dungeons/Thalorn Woods.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
         "height": 16,
         "width": 16
     },
-    "tileset.type": 0
+    "tileset.type": 1
 }
